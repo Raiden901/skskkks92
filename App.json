@@ -1,4 +1,44 @@
-      "value": ".",
+      
+Raw Blame
+
+ 
+{
+  "name": "بـوت جـمثون",
+  "description": "بـوت جمثون العربي الاول في الشرق الأوسط السورس مجاني لا يخدعك أحد في تنصيب - قناة السورس @JMTHON ",
+  "logo": "https://telegra.ph/file/5f6ef13851dcf0d6fc72b.jpg",
+  "keywords": [
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/JMTHON-AR/jmthon",
+  "website": "#TODO",
+  "success_url": "#TODO",
+  "env": {
+    "ALIVE_NAME": {
+      "description": "هـنا ضع اسم حسابك الخاص بالتلي",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "هـنا ضع ايبي ايدي احصل عليه من  :  my.telegram.org",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "هـنا ضع ايبي هاش احصل عليه من my.telegram.org",
+      "value": ""
+    },
+    "STRING_SESSION": {
+      "description": "هـنا ضع كـود تيرمكس ",
+      "value": "",
+      "required": false
+    },
+    "TG_BOT_USERNAME": {
+      "description": " @ هنـا ضع معرف بوت التلي الخاص بك بدون ",
+      "value": ""
+    },
+    "TG_BOT_TOKEN": {
+      "description": "هنـا ضع توكن بوتك .",
+      "value": ""
       "required": false
     },
     "ENV": {
